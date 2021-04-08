@@ -1,16 +1,8 @@
 # uts_riki_hikmianto
 
-A new Flutter project.
+Nama : Riki Hikimianto
 
-## Getting Started
+NIM : 185410042
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1](https://user-images.githubusercontent.com/45007881/114038324-f90adb80-98ab-11eb-8bb4-946b41f0035c.png)
+![Screenshot_2](https://user-images.githubusercontent.com/45007881/114038350-ff00bc80-98ab-11eb-8bbc-fd3f65221ab2.png)
